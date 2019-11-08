@@ -56,7 +56,7 @@ main{
   position: sticky;
   width: 250px;
   height: 40px;
-  border: inset 2px rgb(36, 117, 11) ;
+  border: inset 2px rgb(28, 19, 116) ;
   z-index: 2;
   background-image: linear-gradient(120deg, rgb(5, 1, 39), rgb(16, 16, 119));
   border-radius: 6px;
